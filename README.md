@@ -1,1 +1,2 @@
 # messaging-app
+This project demonstrates an end-to-end encrypted messaging system using Flask. The system operates with two instances of Flask running on fixed ports. The two instances exchange public keys and securely share a symmetric key (DES algorithm) using RSA encryption. The primary purpose of the project is to showcase the integration of RSA and DES in a practical application for secure communication.
